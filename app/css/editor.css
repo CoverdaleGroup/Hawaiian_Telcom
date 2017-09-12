@@ -1,0 +1,63 @@
+/*do not make changes to this file. It will be overwritten by the css editor. Put theme changes in custom.css*/
+
+.container .navbar-nav li.active a:hover  {background-color: #0;}
+.container .navbar-nav li.active a:focus  {background-color: #0;}
+.navbar-default .navbar-nav .open > a  {background-color: #0;}
+.navbar-default .navbar-nav .open > a:hover  {background-color: #0;}
+.navbar-default .navbar-nav .open > a:focus  {background-color: #0;}
+.navbar-nav li.dropdown li > a:hover  {background-color: #0;}
+.navbar-nav li.dropdown li > a:focus  {background-color: #0;}
+.navbar .container .navbar-nav li.active .fa-caret-down  {color: #0;}
+.navbar-nav li.dropdown li > a  {color: #333333;}
+.navbar-nav li.dropdown li > a:hover  {color: undefined;}
+.navbar .container .navbar-nav.pull-right li a i:first-of-type  {border-color: undefined;}
+.badge  {background-color: undefined;}
+.badge  {color: undefined;}
+.navbar-default  {background-color: #;}
+.container .navbar-nav li a  {color: undefined;}
+.container .navbar-nav li.active > a  {background-color: #0;}
+.container .navbar-nav li.active > a  {color: undefined;}
+.navbar-default, .dropdown-mega  {border-color: #FFFFFF;}
+body  {background-color: #F0F0F0;}
+body  {color: #333333;}
+.text-primary  {color: #0C2A3A;}
+.text-info  {color: #0f0f0f;}
+body a  {color: #000203;}
+.btn-primary  {background-color: #4a2c88;}
+.btn-primary, .btn-primary:hover  {color: #FFFFFF;}
+.btn-primary  {border-color: #3b1d79;}
+.btn-primary:hover  {background-color: #361874;}
+.btn-default  {background-color: #FFFFFF;}
+.btn-default, .btn-default:hover  {color: #333333;}
+.btn-default  {border-color: #CCCCCC;}
+.btn-default:hover  {background-color: #EBEBEB;}
+.btn-info  {background-color: #5BC0DE;}
+.btn-info, .btn-info:hover  {color: #FFFFFF;}
+.btn-info  {border-color: #46B8DA;}
+.btn-info:hover  {background-color: #39B3D7;}
+.btn-success  {background-color: #c80c88;}
+.btn-success, .btn-success:hover  {color: #FFFFFF;}
+.btn-success  {border-color: #b90079;}
+.btn-success:hover  {background-color: #b40074;}
+.btn-warning  {background-color: #00a5ba;}
+.btn-warning, .btn-warning:hover  {color: #000000;}
+.btn-warning  {border-color: #96ab;}
+.btn-warning:hover  {background-color: #91a6;}
+.btn-danger  {background-color: #b1b3b3;}
+.btn-danger, .btn-danger:hover  {color: #000000;}
+.btn-danger  {border-color: #a2a4a4;}
+.btn-danger:hover  {background-color: #9d9f9f;}
+.jumbotron  {background-color: #FFFFFF;}
+h2 .jumbotron  {color: #333333;}
+.panel-primary .panel-heading .panel-title  {background-color: #4a2c88;}
+.panel-primary .panel-heading .panel-title  {color: #FFFFFF;}
+.panel-default .panel-heading .panel-title  {background-color: #F5F5F5;}
+.panel-default .panel-heading .panel-title  {color: #333333;}
+.panel  {background-color: #FFFFFF;}
+.panel-footer  {background-color: #F5F5F5;}
+.panel-category-list .well  {background-color: #FFFFFF;}
+.panel-category-list .well h5  {color: #333333;}
+.panel-category-list .well  {border-color: #F0F0F0;}
+.panel-product-list .well  {background-color: #FFFFFF;}
+.panel-product-list .well  {color: #333333;}
+.panel-product-list .well  {border-color: #F0F0F0;}

@@ -1,0 +1,29 @@
+<section>
+    <nav id="451qa_nav_hdr" class="nav">
+        <breadcrumbs></breadcrumbs>
+        <!--CATEGORY HAMBURGER WAS HERE-->
+    </nav>
+
+    <div class="row">
+        <aside class="col-sm-3 col-collapse visible-md visible-lg" ng-if="navStatus.visible">
+            <div class="panel panel-default panel-nav">
+
+                <nav class="nav 451qa_sidenav panel-body">
+                    <ul>
+                        <categorycollapse tree='tree' current='currentCategory'></categorycollapse>
+                    </ul>
+                </nav>
+                <!--<homemessage />-->
+            </div>
+        </aside>
+        <div class="col-collapse" ng-class="{ 'col-md-9': navStatus.visible }" >
+
+            <categorylistview></categorylistview>
+
+            <loadingindicator ng-show="productLoadingIndicator" title="{{'Please wait while we fetch all products' | r | xlat}}"/>
+
+            <productlistview></productlistview>
+
+        </div>
+    </div>
+</section>
